@@ -39,8 +39,8 @@ export const PRODUCTS: Product[] = [
     originalPrice: 7999,
     badge: 'NEW',
     images: [
+      '/src/assets/images/tehri_product_wine_overshirt_1790687407005.jpg',
       '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
-      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg',
       '/src/assets/images/tehri_collection_men_1790686025637.jpg'
     ],
     colors: [
@@ -226,7 +226,7 @@ export const PRODUCTS: Product[] = [
     price: 5999,
     badge: 'BESTSELLER',
     images: [
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
+      '/src/assets/images/tehri_product_pleated_trousers_1790687429098.jpg',
       '/src/assets/images/tehri_collection_men_1790686025637.jpg'
     ],
     colors: [
@@ -260,8 +260,8 @@ export const PRODUCTS: Product[] = [
     price: 7499,
     badge: 'LIMITED',
     images: [
-      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg',
-      '/src/assets/images/tehri_campaign_film_1790685989101.jpg'
+      '/src/assets/images/tehri_product_ribbed_knit_1790687443545.jpg',
+      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg'
     ],
     colors: [
       { name: 'Raw Ecru', hex: '#FCFAF7' },
@@ -294,8 +294,8 @@ export const PRODUCTS: Product[] = [
     price: 11499,
     badge: 'NEW',
     images: [
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
-      '/src/assets/images/tehri_campaign_film_1790685989101.jpg'
+      '/src/assets/images/tehri_product_tote_leather_1790687457697.jpg',
+      '/src/assets/images/tehri_editorial_split_1790685974493.jpg'
     ],
     colors: [
       { name: 'Burgundy Wine', hex: '#98323F' },
