@@ -1,0 +1,6 @@
+{
+  "name": "TEHRI — Contemporary Luxury Fashion",
+  "description": "Editorial, modern e-commerce flagship for TEHRI. Contemporary clothing shaped by form, movement, and everyday expression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
