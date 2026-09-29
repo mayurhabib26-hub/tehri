@@ -13,7 +13,7 @@ export const EditorialSplit: React.FC = () => {
         <div className="relative min-h-[460px] lg:min-h-[640px] overflow-hidden group">
           <ScrollParallax speed={20} className="w-full h-full">
             <img
-              src="/src/assets/images/tehri_editorial_split_1790685974493.jpg"
+              src="/images/tehri_editorial_split_1790685974493.jpg"
               alt="TEHRI Editorial Atelier"
               className="w-full h-[115%] -mt-[8%] object-cover object-center filter brightness-95 transition-transform duration-700 ease-out group-hover:scale-102"
               referrerPolicy="no-referrer"

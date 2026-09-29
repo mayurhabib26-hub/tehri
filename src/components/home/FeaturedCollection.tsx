@@ -32,7 +32,7 @@ export const FeaturedCollection: React.FC = () => {
         <div className="lg:col-span-8 relative aspect-[16/10] overflow-hidden bg-[#ECE8E1] group shadow-sm">
           <ScrollParallax speed={18} className="w-full h-[115%] -top-[7%]">
             <img
-              src="/src/assets/images/tehri_hero_campaign_1790685959459.jpg"
+              src="/images/tehri_hero_campaign_1790685959459.jpg"
               alt="Collection 01 Campaign"
               className="w-full h-full object-cover object-center filter brightness-95 transition-transform duration-1000 ease-out group-hover:scale-102"
               referrerPolicy="no-referrer"

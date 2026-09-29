@@ -21,7 +21,7 @@ export const ShopGenderSplit: React.FC = () => {
             className="group relative aspect-[4/5] sm:aspect-[3/4] overflow-hidden cursor-pointer select-none bg-[#151515]"
           >
             <img
-              src="/src/assets/images/tehri_collection_women_1790686005820.jpg"
+              src="/images/tehri_collection_women_1790686005820.jpg"
               alt="TEHRI Women's Collection"
               className="w-full h-full object-cover object-center filter brightness-90 transition-transform duration-700 ease-out group-hover:scale-105"
               referrerPolicy="no-referrer"
@@ -55,7 +55,7 @@ export const ShopGenderSplit: React.FC = () => {
             className="group relative aspect-[4/5] sm:aspect-[3/4] overflow-hidden cursor-pointer select-none bg-[#151515]"
           >
             <img
-              src="/src/assets/images/tehri_collection_men_1790686025637.jpg"
+              src="/images/tehri_collection_men_1790686025637.jpg"
               alt="TEHRI Men's Collection"
               className="w-full h-full object-cover object-center filter brightness-90 transition-transform duration-700 ease-out group-hover:scale-105"
               referrerPolicy="no-referrer"

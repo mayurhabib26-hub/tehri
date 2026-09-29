@@ -38,7 +38,7 @@ export const OurStoryView: React.FC = () => {
         {/* Full-width Editorial Visual */}
         <div className="relative aspect-[16/9] overflow-hidden bg-[#151515] mb-20 shadow-md">
           <img
-            src="/src/assets/images/tehri_hero_campaign_1790685959459.jpg"
+            src="/images/tehri_hero_campaign_1790685959459.jpg"
             alt="The TEHRI Atelier"
             className="w-full h-full object-cover object-center filter brightness-90"
             referrerPolicy="no-referrer"
@@ -70,7 +70,7 @@ export const OurStoryView: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-16">
           <div className="aspect-[3/4] overflow-hidden bg-[#ECE8E1]">
             <img
-              src="/src/assets/images/tehri_editorial_split_1790685974493.jpg"
+              src="/images/tehri_editorial_split_1790685974493.jpg"
               alt="Atelier Cutting Table"
               className="w-full h-full object-cover object-center"
               referrerPolicy="no-referrer"

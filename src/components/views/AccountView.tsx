@@ -79,7 +79,7 @@ export const AccountView: React.FC = () => {
             <div className="py-4 flex gap-4 items-center">
               <div className="w-16 h-20 bg-[#ECE8E1] overflow-hidden shrink-0">
                 <img
-                  src="/src/assets/images/tehri_hero_campaign_1790685959459.jpg"
+                  src="/images/tehri_hero_campaign_1790685959459.jpg"
                   alt="Sculptural Cashmere Cocoon Coat"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -122,7 +122,7 @@ export const AccountView: React.FC = () => {
             <div className="py-4 flex gap-4 items-center">
               <div className="w-16 h-20 bg-[#ECE8E1] overflow-hidden shrink-0">
                 <img
-                  src="/src/assets/images/tehri_editorial_split_1790685974493.jpg"
+                  src="/images/tehri_editorial_split_1790685974493.jpg"
                   alt="Structured Overshirt in Wine Wool"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

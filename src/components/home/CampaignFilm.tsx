@@ -11,7 +11,7 @@ export const CampaignFilm: React.FC = () => {
       {/* Background Cinematic Visual with Scroll Parallax */}
       <ScrollParallax speed={25} className="absolute inset-0 w-full h-[120%] -top-[10%]">
         <img
-          src="/src/assets/images/tehri_campaign_film_1790685989101.jpg"
+          src="/images/tehri_campaign_film_1790685989101.jpg"
           alt="TEHRI Autumn Winter Campaign Film"
           className="w-full h-full object-cover object-center filter brightness-[0.8] scale-105"
           referrerPolicy="no-referrer"

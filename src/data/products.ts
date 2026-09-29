@@ -39,9 +39,9 @@ export const PRODUCTS: Product[] = [
     originalPrice: 7999,
     badge: 'NEW',
     images: [
-      '/src/assets/images/tehri_product_wine_overshirt_1790687407005.jpg',
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
-      '/src/assets/images/tehri_collection_men_1790686025637.jpg'
+      '/images/tehri_product_wine_overshirt_1790687407005.jpg',
+      '/images/tehri_editorial_split_1790685974493.jpg',
+      '/images/tehri_collection_men_1790686025637.jpg'
     ],
     colors: [
       { name: 'Tehri Burgundy', hex: '#98323F' },
@@ -79,9 +79,9 @@ export const PRODUCTS: Product[] = [
     price: 18499,
     badge: 'LIMITED',
     images: [
-      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg',
-      '/src/assets/images/tehri_campaign_film_1790685989101.jpg',
-      '/src/assets/images/tehri_collection_women_1790686005820.jpg'
+      '/images/tehri_hero_campaign_1790685959459.jpg',
+      '/images/tehri_campaign_film_1790685989101.jpg',
+      '/images/tehri_collection_women_1790686005820.jpg'
     ],
     colors: [
       { name: 'Vintage Wine', hex: '#98323F' },
@@ -119,9 +119,9 @@ export const PRODUCTS: Product[] = [
     price: 12999,
     badge: 'BESTSELLER',
     images: [
-      '/src/assets/images/tehri_collection_women_1790686005820.jpg',
-      '/src/assets/images/tehri_campaign_film_1790685989101.jpg',
-      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg'
+      '/images/tehri_collection_women_1790686005820.jpg',
+      '/images/tehri_campaign_film_1790685989101.jpg',
+      '/images/tehri_hero_campaign_1790685959459.jpg'
     ],
     colors: [
       { name: 'Burgundy Crimson', hex: '#98323F' },
@@ -158,9 +158,9 @@ export const PRODUCTS: Product[] = [
     price: 16999,
     badge: 'NEW',
     images: [
-      '/src/assets/images/tehri_collection_men_1790686025637.jpg',
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
-      '/src/assets/images/tehri_campaign_film_1790685989101.jpg'
+      '/images/tehri_collection_men_1790686025637.jpg',
+      '/images/tehri_editorial_split_1790685974493.jpg',
+      '/images/tehri_campaign_film_1790685989101.jpg'
     ],
     colors: [
       { name: 'Deep Charcoal', hex: '#151515' },
@@ -192,8 +192,8 @@ export const PRODUCTS: Product[] = [
     price: 4999,
     originalPrice: 5999,
     images: [
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
-      '/src/assets/images/tehri_collection_women_1790686005820.jpg'
+      '/images/tehri_editorial_split_1790685974493.jpg',
+      '/images/tehri_collection_women_1790686005820.jpg'
     ],
     colors: [
       { name: 'Warm Ivory', hex: '#F8F5EF' },
@@ -226,8 +226,8 @@ export const PRODUCTS: Product[] = [
     price: 5999,
     badge: 'BESTSELLER',
     images: [
-      '/src/assets/images/tehri_product_pleated_trousers_1790687429098.jpg',
-      '/src/assets/images/tehri_collection_men_1790686025637.jpg'
+      '/images/tehri_product_pleated_trousers_1790687429098.jpg',
+      '/images/tehri_collection_men_1790686025637.jpg'
     ],
     colors: [
       { name: 'Charcoal Black', hex: '#151515' },
@@ -260,8 +260,8 @@ export const PRODUCTS: Product[] = [
     price: 7499,
     badge: 'LIMITED',
     images: [
-      '/src/assets/images/tehri_product_ribbed_knit_1790687443545.jpg',
-      '/src/assets/images/tehri_hero_campaign_1790685959459.jpg'
+      '/images/tehri_product_ribbed_knit_1790687443545.jpg',
+      '/images/tehri_hero_campaign_1790685959459.jpg'
     ],
     colors: [
       { name: 'Raw Ecru', hex: '#FCFAF7' },
@@ -294,8 +294,8 @@ export const PRODUCTS: Product[] = [
     price: 11499,
     badge: 'NEW',
     images: [
-      '/src/assets/images/tehri_product_tote_leather_1790687457697.jpg',
-      '/src/assets/images/tehri_editorial_split_1790685974493.jpg'
+      '/images/tehri_product_tote_leather_1790687457697.jpg',
+      '/images/tehri_editorial_split_1790685974493.jpg'
     ],
     colors: [
       { name: 'Burgundy Wine', hex: '#98323F' },
@@ -324,28 +324,28 @@ export const LOOKBOOK_EDITS = [
     number: '01',
     title: 'THE RED ROOM',
     subtitle: 'Sensual monochrome textures bathed in signature wine and muted rose.',
-    image: '/src/assets/images/tehri_hero_campaign_1790685959459.jpg',
+    image: '/images/tehri_hero_campaign_1790685959459.jpg',
     look: 'Double-face Cashmere Overcoat + Silk High-Slit Gown',
   },
   {
     number: '02',
     title: 'AFTER DARK',
     subtitle: 'Deep charcoal silhouettes meeting razor-sharp tailored lines.',
-    image: '/src/assets/images/tehri_campaign_film_1790685989101.jpg',
+    image: '/images/tehri_campaign_film_1790685989101.jpg',
     look: 'Architectural Overcoat + Fluid Pleated Wool Trouser',
   },
   {
     number: '03',
     title: 'ESSENTIAL FORM',
     subtitle: 'Understated luxury designed for tactile contact and fluid movement.',
-    image: '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
+    image: '/images/tehri_editorial_split_1790685974493.jpg',
     look: 'Structured Overshirt in Wine + Raw Egyptian Poplin',
   },
   {
     number: '04',
     title: 'NEW CLASSICS',
     subtitle: 'Haute craftsmanship reimagined for contemporary daily rituals.',
-    image: '/src/assets/images/tehri_collection_women_1790686005820.jpg',
+    image: '/images/tehri_collection_women_1790686005820.jpg',
     look: 'Asymmetric Fluid Drape Dress + Sculpted Calfskin Tote',
   }
 ];
@@ -355,28 +355,28 @@ export const INSTAGRAM_POSTS = [
     id: 'ig-1',
     handle: '@mayur_atelier',
     caption: 'In the autumn chill with @TEHRI signature cocoon coat. Nothing compares to the weight.',
-    image: '/src/assets/images/tehri_hero_campaign_1790685959459.jpg',
+    image: '/images/tehri_hero_campaign_1790685959459.jpg',
     product: 'Sculptural Cashmere Cocoon Coat'
   },
   {
     id: 'ig-2',
     handle: '@clara.vogue',
     caption: 'Couture lines for gallery previews. @TEHRI silk column dress in signature wine.',
-    image: '/src/assets/images/tehri_collection_women_1790686005820.jpg',
+    image: '/images/tehri_collection_women_1790686005820.jpg',
     product: 'Asymmetric Fluid Silk Column Dress'
   },
   {
     id: 'ig-3',
     handle: '@atelier_soren',
     caption: 'The precision on these shoulder pleats. Modern tailoring done right.',
-    image: '/src/assets/images/tehri_collection_men_1790686025637.jpg',
+    image: '/images/tehri_collection_men_1790686025637.jpg',
     product: 'Architectural Minimalist Overcoat'
   },
   {
     id: 'ig-4',
     handle: '@nora_edit',
     caption: 'Between form and flow. Wardrobe anchors from @TEHRI.',
-    image: '/src/assets/images/tehri_editorial_split_1790685974493.jpg',
+    image: '/images/tehri_editorial_split_1790685974493.jpg',
     product: 'Structured Overshirt in Wine Wool'
   }
 ];

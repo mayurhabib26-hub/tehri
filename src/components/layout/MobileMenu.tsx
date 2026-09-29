@@ -5,11 +5,11 @@ import { useShop } from '../../context/ShopContext';
 import { TehriLogo } from '../common/TehriLogo';
 
 const MENU_ITEMS = [
-  { label: 'NEW IN', view: 'new-in', sub: 'Autumn / Winter 2026 Archive', image: '/src/assets/images/tehri_hero_campaign_1790685959459.jpg' },
-  { label: 'WOMEN', view: 'women', sub: 'Fluid Silhouettes & Silk Tailoring', image: '/src/assets/images/tehri_collection_women_1790686005820.jpg' },
-  { label: 'MEN', view: 'men', sub: 'Architectural Minimalist Overcoats', image: '/src/assets/images/tehri_collection_men_1790686025637.jpg' },
-  { label: 'COLLECTIONS', view: 'collections', sub: 'Between Form & Flow', image: '/src/assets/images/tehri_campaign_film_1790685989101.jpg' },
-  { label: 'OUR STORY', view: 'story', sub: 'Artisan Philosophy & Atelier', image: '/src/assets/images/tehri_editorial_split_1790685974493.jpg' },
+  { label: 'NEW IN', view: 'new-in', sub: 'Autumn / Winter 2026 Archive', image: '/images/tehri_hero_campaign_1790685959459.jpg' },
+  { label: 'WOMEN', view: 'women', sub: 'Fluid Silhouettes & Silk Tailoring', image: '/images/tehri_collection_women_1790686005820.jpg' },
+  { label: 'MEN', view: 'men', sub: 'Architectural Minimalist Overcoats', image: '/images/tehri_collection_men_1790686025637.jpg' },
+  { label: 'COLLECTIONS', view: 'collections', sub: 'Between Form & Flow', image: '/images/tehri_campaign_film_1790685989101.jpg' },
+  { label: 'OUR STORY', view: 'story', sub: 'Artisan Philosophy & Atelier', image: '/images/tehri_editorial_split_1790685974493.jpg' },
 ];
 
 export const MobileMenu: React.FC = () => {

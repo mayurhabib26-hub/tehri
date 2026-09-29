@@ -24,7 +24,7 @@ export const Hero: React.FC = () => {
         transition={{ duration: 2.4, ease: [0.16, 1, 0.3, 1] }}
       >
         <img
-          src="/src/assets/images/tehri_hero_campaign_1790685959459.jpg"
+          src="/images/tehri_hero_campaign_1790685959459.jpg"
           alt="TEHRI Autumn Winter 2026 Campaign"
           className="w-full h-full object-cover object-center filter brightness-[0.88]"
           referrerPolicy="no-referrer"
